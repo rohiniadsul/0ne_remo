@@ -1,2 +1,2 @@
 print ("gftgdg")
-print "gh"
+print ("gh")
