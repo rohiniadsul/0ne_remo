@@ -1,1 +1,2 @@
-ptint ("gftgdg")
+print ("gftgdg")
+print "gh"
